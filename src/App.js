@@ -43,7 +43,7 @@ export default function App() {
       <footer className="w-full border-t mt-8">
         <div className="max-w-5xl mx-auto px-6 py-6 text-sm text-gray-500 flex justify-between">
           <div>© {new Date().getFullYear()} FractureDetector</div>
-          <div>Conçu avec ❤️ • Tailwind CSS</div>
+          <div> Tailwind CSS</div>
         </div>
       </footer>
     </div>
